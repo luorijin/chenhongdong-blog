@@ -3,6 +3,7 @@
 npm i create-react-app -g
 create-react-app dom-diff
 ```
+https://juejin.im/post/5c8e5e4951882545c109ae9c
 
 ## 虚拟dom
 createElement => {type, props, children}
